@@ -24,4 +24,4 @@ go to the root of the folder and reun ./tester.sh
 ./tester.sh
 ```
 # ScreenShot
-![Alt text](demo sc.png)
+![Alt text](demo_sc.png)
