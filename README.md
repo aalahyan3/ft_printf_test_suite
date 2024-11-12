@@ -5,4 +5,21 @@ After finishing the  project i started making this test_suite ai really enjoyed 
 # Usage
 to use it you just need to follow these steps: 
 ### step 1:
-  clone the repo using thi scommand on tour terminal ```git clone https://github.com/aalahyan3/ft_printf_test_suite```
+  clone the repo using this scommand on your terminal:
+  ```
+  git clone https://github.com/aalahyan3/ft_printf_test_suite
+```
+### step 2
+copy your `ft_printf` folder inside the directory `ft_printf_test_suite`
+```
+cp path/to/ft_printf path/to/ft_printf_test_suite
+```
+
+### step 3
+  since the structure of ft-printf may deffer, you need to reset the path to ``ft_printf.h`` inside ``ft_printf_test_suite/test_suite_printf/includes/test.h``
+
+### step 4
+go to the root of the folder and reun ./tester.sh
+```
+./tester.sh
+```
